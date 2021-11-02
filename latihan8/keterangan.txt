@@ -1,0 +1,13 @@
+---- Keterangan Latihan 8 (10 - Membuat Styling Item Blog Post dan Pagination) ----
+
+1. Cara Installasi
+   - npx create-react-app mern-blog
+     - Untuk menginstall react js dengan nama folder mern-blog
+   - yarn add react-router-router-dom
+     - Untuk menginstall react router dom
+   - yarn add node-sass@4.14.1
+     - Untuk menginstall sass pendukung untuk react js
+
+2. Cara Menjalankan Aplikasi
+   - yarn start
+     - Untuk menjalankan Aplikasi react

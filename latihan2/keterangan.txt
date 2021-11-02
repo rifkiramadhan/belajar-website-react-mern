@@ -1,0 +1,11 @@
+---- Keterangan Latihan 2 (04 - Struktur Folder ReactJS dan Restruktur Folder Menjadi Atomic Design) ----
+
+1. Cara Installasi
+   - npx create-react-app mern-blog
+     - Untuk menginstall react js dengan nama folder mern-blog
+   - yarn add react-router-router-dom
+     - Untuk menginstall react router dom
+
+2. Cara Menjalankan Aplikasi
+   - yarn start
+     - Untuk menjalankan Aplikasi react

@@ -1,0 +1,4 @@
+---- Keterangan Latihan 13 (17 - Cara Membuat Project Baru NodeJS) ----
+
+1. Cara Install Project Node JS
+   - npm init
