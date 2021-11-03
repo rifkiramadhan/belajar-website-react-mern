@@ -1,0 +1,9 @@
+---- Keterangan Latihan 16 (21 - Restructure Projects NodeJS/ExpressJS) ----
+
+1. Cara Install Project Node JS
+   - npm init
+     - Untuk membuat project Node JS
+   - npm install --save express (yarn add express)
+     - Untuk menginstal express js
+   - yarn add nodemon
+     - Untuk menginstall nodemon

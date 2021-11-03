@@ -1,0 +1,11 @@
+---- Keterangan Latihan 21 (26 - Membuat Dummy Endpoint Response dan Membuat Postman Collection) ----
+
+1. Cara Install Project Node JS
+   - npm init
+     - Untuk membuat project Node JS
+   - npm install --save express (yarn add express)
+     - Untuk menginstal express js
+   - yarn add nodemon
+     - Untuk menginstall nodemon
+   - yarn add body-parser
+     - Untuk menjalankan body parser serta memparsing supaya lebih mudah di baca nya

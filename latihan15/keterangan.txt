@@ -1,0 +1,9 @@
+---- Keterangan Latihan 15 (20 - Membuat dan Memahami Basic Router, Request dan Response di NodeJS) ----
+
+1. Cara Install Project Node JS
+   - npm init
+     - Untuk membuat project Node JS
+   - npm install --save express (yarn add express)
+     - Untuk menginstal express js
+   - yarn add nodemon
+     - Untuk menginstall nodemon
