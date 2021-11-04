@@ -1,0 +1,17 @@
+---- Keterangan Latihan 32 (39 - Delete Postingan Blog dan Delete Image Post (Delete Method)) ----
+
+1. Cara Install Project Node JS
+   - npm init
+     - Untuk membuat project Node JS
+   - npm install --save express (yarn add express)
+     - Untuk menginstal express js
+   - yarn add nodemon
+     - Untuk menginstall nodemon
+   - yarn add body-parser
+     - Untuk menjalankan body parser serta memparsing supaya lebih mudah di baca nya
+   - yarn add express-validator
+     - Untuk menginstall express validator
+   - yarn add mongoose
+     - Untuk media mengkoneksikan Node JS kita ke Mongo DB Atlas, dan membuat model nya
+   - yarn add multer
+     - Untuk mengakses upload image

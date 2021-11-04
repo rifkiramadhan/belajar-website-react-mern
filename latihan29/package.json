@@ -1,0 +1,20 @@
+{
+  "name": "mern-api",
+  "version": "1.0.0",
+  "description": "REST API Node JS (MERN Stack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Rifki Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mongoose": "^6.0.12",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.14"
+  }
+}
