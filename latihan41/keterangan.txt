@@ -1,0 +1,21 @@
+---- Keterangan Latihan 41 (48 - Implementasi Pagination di halaman homepage) ----
+
+1. Cara Installasi
+   - npx create-react-app mern-blog
+     - Untuk menginstall react js dengan nama folder mern-blog
+   - yarn add react-router-router-dom
+     - Untuk menginstall react router dom
+   - yarn add node-sass@4.14.1
+     - Untuk menginstall sass pendukung untuk react js
+   - yarn add axios
+     - Untuk menginstal axios untuk fetching api pada react js
+   - yarn add redux
+     - Untuk menginstall redux
+   - yarn add react-redux
+     - Untuk menginstall react redux
+   - yarn add redux-thunk
+     - Untuk membuat script pada react js menjadi asynchronous
+
+2. Cara Menjalankan Aplikasi
+   - yarn start
+     - Untuk menjalankan Aplikasi react
