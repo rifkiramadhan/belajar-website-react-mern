@@ -1,4 +1,6 @@
 # MERN Basic Indonesia
+## Screenshot Aplikasi
+![Desktop Layout](screenshot/desktop-layout.PNG)
 ## Pengertian
 ### MERN
 - Mongo DB
